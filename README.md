@@ -1,12 +1,39 @@
-# React + Vite
+# 🛍️ R3F 3D E-Commerce Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive **3D E-Commerce application** built with **React Three Fiber(R3F)** and **Three.js**.  
+This project demonstrates how 3D graphics can enhance shopping experiences by allowing users to explore products in detail.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Browse multiple 3D items (smartphones, furniture, pots, etc.)
+- Built-in **camera controls** and **lights** for realistic viewing
+- **Rotate** and **zoom** each product in real-time
+- Change **product color** or **variant**
+- Add products to **Cart** and manage them
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1419" height="674" alt="Screenshot 2025-09-03 at 12 25 54 PM" src="https://github.com/user-attachments/assets/ba1c1906-ffae-4b63-b787-eb8aa31b6a01" />
+
+---
+
+## 🛠️ Tech Stack
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Three.js](https://threejs.org/)
+- [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+- [Zustand](https://zustand-demo.pmnd.rs/) for state management
+
+---
+
+## 📦 Getting Started
+
+### Steps to run the application
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/your-username/ecom-3d.git
+   cd ecom-3d
+
+2.Run - npm install<br/>
+3. Run - npm run dev
+   
