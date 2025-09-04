@@ -1,1 +1,9 @@
 node_modules
+dist
+build
+.cache
+*.log
+*.md
+.git
+.gitignore
+.env
