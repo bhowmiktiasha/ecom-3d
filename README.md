@@ -69,4 +69,11 @@ Deployed using Render free tier cloud with Nginx serving the built app.
 
 🔗 Live Demo: https://r3f-3d-docker-nginx.onrender.com/
 
+⚠️ Side Note
+
+This image is built for linux/amd64 platform.
+
+If you’re on Mac (M1/M2 - arm64) or non-amd64 machine and face issues, pull the image using:
+docker pull --platform=linux/amd64 tiasha123/ecom-nginx:latest
+
 ✨ That’s it! You can either run it locally with Vite, or pull the Docker image and run it in a container.
